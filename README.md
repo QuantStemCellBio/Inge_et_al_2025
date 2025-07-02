@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td style="width: 50%; vertical-align: top;">
-      <img src="./Inge_et_al_Graphical_Abstract.png" alt="Graphical Abstract" style="width:100%; max-width:200px;" />
+      <img src="./Abstract/Inge_et_al_Graphical_Abstract.png" alt="Graphical Abstract" style="width:100%; max-width:200px;" />
     </td>
     <td style="width: 50%; vertical-align: top; padding-left: 15px;">
       <p>  
@@ -33,9 +33,9 @@ Resources to generate data are available upon request from Dr. Silvia Santos (si
 
 _Combinatorial Activin and BMP4 guide cell fate decisions from hESCs._
 
-[Figure_1_Cell_Segmentation_Script.bash](./Figure_1_Cell_Segmentation_Script.bash)  
-[Figure_1_Dose_response_Analysis_Plotting.ipynb](./Figure_1_Dose_response_Analysis_Plotting.ipynb)  
-[Figure_1_Switching_Analysis_Plotting.ipynb](./Figure_1_Switching_Analysis_Plotting.ipynb)  
+[Figure_1_Cell_Segmentation_Script.bash](./Figure_1/Figure_1_Cell_Segmentation_Script.bash)  
+[Figure_1_Dose_response_Analysis_Plotting.ipynb](./Figure_1/Figure_1_Dose_response_Analysis_Plotting.ipynb)  
+[Figure_1_Switching_Analysis_Plotting.ipynb](./Figure_1/Figure_1_Switching_Analysis_Plotting.ipynb)  
 
 ### Figure S1.
 
