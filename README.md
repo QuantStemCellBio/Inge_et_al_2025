@@ -4,10 +4,10 @@
 
 <table>
   <tr>
-    <td style="width: 25%; vertical-align: top;">
-      <img src="./Inge_et_al_Graphical_Abstract.png" alt="Graphical Abstract" style="width:100%; max-width:200px;" />
+    <td style="width: 50%; vertical-align: top;">
+      <img src="./Inge_et_al_Graphical_Abstract.png" alt="Graphical Abstract" style="width:50%; max-width:200px;" />
     </td>
-    <td style="width: 25%; vertical-align: top; padding-left: 15px;">
+    <td style="width: 50%; vertical-align: top; padding-left: 15px;">
       <p>
    
   This repository contains the code and data analysis for the publication:
