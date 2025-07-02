@@ -2,7 +2,7 @@
 
 ## Graphical Abstract
 
-![Abstract](./images/Inge_et_al_Graphical_Abstract.png)
+![Abstract](./Inge_et_al_Graphical_Abstract.png)
 
 ## Summary of repository
 
