@@ -43,3 +43,37 @@ _Cell fate specification is controlled by combinatorial BMP4/Activin (related to
 
 [Figure_S1_4i_Alignment.bash](./Figure_S1_4i_Alignment.bash)  
 
+
+### Figure 2.
+
+_Modelling cell state transitions reveals need for multiple routes to differentiated fates._
+
+
+
+### Figure S2.
+
+_Markov modelling captures dynamics of BMP4/Activin driven differentiation (related to Figure 2)_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
