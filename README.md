@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td>
-      <img src="./Inge_et_al_Graphical_Abstract.png" alt="Graphical Abstract" width="400" />
+      <img src="./Inge_et_al_Graphical_Abstract.png" alt="Graphical Abstract" width="500" />
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <p>
