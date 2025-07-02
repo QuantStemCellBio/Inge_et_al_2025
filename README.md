@@ -1,4 +1,4 @@
-# Inge_et_al_2025
+# Inge _**et al.**_ 2025
 
 ## Summary of repository
 
