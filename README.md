@@ -14,7 +14,7 @@
 
   > _Combininatorial BMP4 and Activin direct choice between alternate Routes to endoderm during human Gastrulation (TBC)_
   
-  > _**Oliver Inge**, Elias Copin, Jake Cornwall-Scoones, Borzo Gharibi, Irene Rodriguez-Hernandez, Pablo Soro-Barrio, Molly Strom, Probir Chakravarty, James Briscoe and Silvia Santos*_
+  > _<ins>**Oliver Inge**</ins>, Elias Copin, Jake Cornwall-Scoones, Borzo Gharibi, Irene Rodriguez-Hernandez, Pablo Soro-Barrio, Molly Strom, Probir Chakravarty, James Briscoe and Silvia Santos*_
 
 Input data for sequencing is available at GEO: GSE274723.
 
