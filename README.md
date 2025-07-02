@@ -1,25 +1,24 @@
 # Inge _**et al.**_ 2025
 
-##  Summary of repository
+## Summary of repository
 
 <table>
   <tr>
     <td>
-      <img src="./Inge_et_al_Graphical_Abstract.png" alt="Graphical Abstract" width="100" />
+      <img src="./Inge_et_al_Graphical_Abstract.png" alt="Graphical Abstract" width="300" />
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <p>
-   This repository contains the code and data analysis for the publication:
+        This repository contains the code and data analysis for the publication:
 
-  > *Combininatorial BMP4 and Activin direct choice between alternate Routes to endoderm during human Gastrulation (TBC) **Oliver Inge**, Elias Copin, Jake Cornwall-Scoones, Borzo Gharibi, Irene Rodriguez-Hernandez, Pablo Soro-Barrio, Molly Strom, Probir Chakravarty, James Briscoe and Silvia Santos* 
-Input data for sequencing is available at GEO: GSE274723.
+        Combinatorial BMP4 and Activin direct choice between alternate Routes to endoderm during human Gastrulation (TBC) **Oliver Inge**, Elias Copin, Jake Cornwall-Scoones, Borzo Gharibi, Irene Rodriguez-Hernandez, Pablo Soro-Barrio,   Molly Strom, Probir Chakravarty, James Briscoe and Silvia Santos.  
+        Input data for sequencing is available at GEO: GSE274723.
 
-Resources to generate data are available upon request from Dr. Silvia Santos (silvia.santos@crick.ac.uk).     
-   </p>
-  </td>
+        Resources to generate data are available upon request from Dr. Silvia Santos (silvia.santos@crick.ac.uk).
+      </p>
+    </td>
   </tr>
 </table>
-
 
 
 
