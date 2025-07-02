@@ -1,6 +1,5 @@
 # Inge _**et al.**_ 2025
 
-## Summary of repository
 
 <table>
   <tr>
@@ -9,7 +8,8 @@
     </td>
     <td style="width: 50%; vertical-align: top; padding-left: 15px;">
       <p>
-   
+  ## Summary of repository
+
   This repository contains the code and data analysis for the publication:
 
   > _Combininatorial BMP4 and Activin direct choice between alternate Routes to endoderm during human Gastrulation (TBC)_
