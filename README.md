@@ -2,18 +2,3 @@
 
 # Abstract
 
-Lineage speciRication requires accurate interpretation of multiple signalling cues.
-However, how combinatorial signalling histories inRluence cell fate outcomes remains
-poorly understood. We combined single-cell transcriptomics and quantitative live-cell
-imaging with mathematical modelling to explore how two key developmental signals,
-Activin and BMP4, guide developmental transitions and fate speciRication during human
-gastrulation. We see that Activin and BMP4 interact both synergistically and
-antagonistically to drive fate decisions. We Rind that deRinitive endoderm arises from
-lineage convergence: a direct route from pluripotency and an indirect route via a
-mesoderm progenitor state. Cells pass through temporal windows of signalling
-competency and the relative concentration of Activin and BMP4 signals dictates the
-choice between these alternate trajectories. The distinct efRiciency between routes is
-underpinned by a dual role of BMP4 in inducing mesoderm genes while promoting
-pluripotency exit. This work underscores that the combination of signals a cell is exposed
-to, not only directs its Rinal fate, but also the developmental route taken and suggests
-lineage convergence enhances robustness during fate speciRication.
