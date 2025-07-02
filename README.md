@@ -2,7 +2,8 @@
 
 ## Graphical Abstract
 
-![Abstract](./Inge_et_al_Graphical_Abstract.png)
+<!-- Graphical Abstract with resized image -->
+<img src="./Inge_et_al_Graphical_Abstract.png" alt="Graphical Abstract" width="200" />
 
 ## Summary of repository
 
