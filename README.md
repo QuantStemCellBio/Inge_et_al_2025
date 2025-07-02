@@ -14,11 +14,11 @@ Resources to generate data are available upon request from Dr. Silvia Santos (si
 
 ### Figure 1.
 
-[Figure_1_Cell_Segmentation_Script.bash](./Figure_1_Cell_Segmentation_Script.bash)
-[Figure_1_Dose_response_Analysis_Plotting.ipynb](./Figure_1_Dose_response_Analysis_Plotting.ipynb)
-[Figure_1_Switching_Analysis_Plotting.ipynb](./Figure_1_Switching_Analysis_Plotting.ipynb)
+[Figure_1_Cell_Segmentation_Script.bash](./Figure_1_Cell_Segmentation_Script.bash)  
+[Figure_1_Dose_response_Analysis_Plotting.ipynb](./Figure_1_Dose_response_Analysis_Plotting.ipynb)  
+[Figure_1_Switching_Analysis_Plotting.ipynb](./Figure_1_Switching_Analysis_Plotting.ipynb)  
 
 ### Figure S1.
 
-[Figure_S1_4i_Alignment.bash](./Figure_S1_4i_Alignment.bash)
+[Figure_S1_4i_Alignment.bash](./Figure_S1_4i_Alignment.bash)  
 
