@@ -1,11 +1,11 @@
 # Inge_et_al_2025
 
-## Abstract
-
-Lineage specification requires accurate interpretation of multiple signalling cues. However, how combinatorial signalling histories influence cell fate outcomes remains poorly understood. We combined single-cell transcriptomics and quantitative live-cell imaging with mathematical modelling to explore how two key developmental signals, Activin and BMP4, guide developmental transitions and fate specification during human gastrulation. We see that Activin and BMP4 interact both synergistically and antagonistically to drive fate decisions. We find that definitive endoderm arises from lineage convergence: a direct route from pluripotency and an indirect route via a mesoderm progenitor state. Cells pass through temporal windows of signalling competency and the relative concentration of Activin and BMP4 signals dictates the choice between these alternate trajectories. The distinct efficiency between routes is underpinned by a dual role of BMP4 in inducing mesoderm genes while promoting pluripotency exit. This work underscores that the combination of signals a cell is exposed to, not only directs its final fate, but also the developmental route taken and suggests lineage convergence enhances robustness during fate specification.
-
 ## Summary of repository
 
+This repository contains the code and data analysis for the publication:
 
+> *Combininatorial BMP4 and Activin direct choice between alternate Routes to endoderm during human Gastrulation (TBC)*
 
+Input data for sequencing is available at GEO: GSE274723 and 
 
+Resources to generate data are available upon request from Dr. Silvia Santos (silvia.santos@crick.ac.uk).
