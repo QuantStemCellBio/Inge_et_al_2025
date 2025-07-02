@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td>
-      <img src="./Inge_et_al_Graphical_Abstract.png" alt="Graphical Abstract" width="500" />
+      <img src="./Inge_et_al_Graphical_Abstract.png" alt="Graphical Abstract" width="100" />
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <p>
@@ -15,9 +15,8 @@
 Input data for sequencing is available at GEO: GSE274723.
 
 Resources to generate data are available upon request from Dr. Silvia Santos (silvia.santos@crick.ac.uk).     
-
-      </p>
-    </td>
+   </p>
+  </td>
   </tr>
 </table>
 
