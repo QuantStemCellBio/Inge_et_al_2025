@@ -2,8 +2,19 @@
 
 ## Graphical Abstract
 
-<!-- Graphical Abstract with resized image -->
-<img src="./Inge_et_al_Graphical_Abstract.png" alt="Graphical Abstract" width="200" />
+<table>
+  <tr>
+    <td>
+      <img src="./Inge_et_al_Graphical_Abstract.png" alt="Graphical Abstract" width="400" />
+    </td>
+    <td style="vertical-align: top; padding-left: 15px;">
+      <p>
+        Here is the written abstract text. It will appear right next to the image, wrapping naturally within this cell.
+        You can write multiple sentences here to describe or summarize your project’s graphical abstract.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## Summary of repository
 
