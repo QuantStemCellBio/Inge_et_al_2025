@@ -1,5 +1,9 @@
 # Inge _**et al.**_ 2025
 
+## Graphical Abstract
+
+![Abstract](./images/Inge_et_al_Graphical_Abstract.png)
+
 ## Summary of repository
 
 This repository contains the code and data analysis for the publication:
