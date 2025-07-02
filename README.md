@@ -10,8 +10,15 @@ Input data for sequencing is available at GEO: GSE274723.
 
 Resources to generate data are available upon request from Dr. Silvia Santos (silvia.santos@crick.ac.uk).
 
-##Table of Contents 
+## Table of Contents 
 
 ### Figure 1.
 
-[Figure_1_Dose_Response_Analysis.html](./index.html)
+[Figure_1_Cell_Segmentation_Script.bash](./Figure_1_Cell_Segmentation_Script.bash)
+[Figure_1_Dose_response_Analysis_Plotting.ipynb](./Figure_1_Dose_response_Analysis_Plotting.ipynb)
+[Figure_1_Switching_Analysis_Plotting.ipynb](./Figure_1_Switching_Analysis_Plotting.ipynb)
+
+### Figure S1.
+
+[Figure_S1_4i_Alignment.bash](./Figure_S1_4i_Alignment.bash)
+
