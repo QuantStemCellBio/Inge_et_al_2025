@@ -31,11 +31,15 @@ Resources to generate data are available upon request from Dr. Silvia Santos (si
 
 ### Figure 1.
 
+_Combinatorial Activin and BMP4 guide cell fate decisions from hESCs._
+
 [Figure_1_Cell_Segmentation_Script.bash](./Figure_1_Cell_Segmentation_Script.bash)  
 [Figure_1_Dose_response_Analysis_Plotting.ipynb](./Figure_1_Dose_response_Analysis_Plotting.ipynb)  
 [Figure_1_Switching_Analysis_Plotting.ipynb](./Figure_1_Switching_Analysis_Plotting.ipynb)  
 
 ### Figure S1.
+
+_Cell fate speciSication is controlled by combinatorial BMP4/Activin (related to Figure 1)_
 
 [Figure_S1_4i_Alignment.bash](./Figure_S1_4i_Alignment.bash)  
 
