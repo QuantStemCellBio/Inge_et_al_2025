@@ -30,29 +30,20 @@ Resources to generate data are available upon request from Dr. Silvia Santos (si
 ## Table of Contents 
 
 ### Figure 1.
-
 _Combinatorial Activin and BMP4 guide cell fate decisions from hESCs._
-
-[Figure_1_Cell_Segmentation_Script.bash](./Figure_1/Figure_1_Cell_Segmentation_Script.bash)  
-[Figure_1_Dose_response_Analysis_Plotting.ipynb](./Figure_1/Figure_1_Dose_response_Analysis_Plotting.ipynb)  
-[Figure_1_Switching_Analysis_Plotting.ipynb](./Figure_1/Figure_1_Switching_Analysis_Plotting.ipynb)  
-
-### Figure S1.
-
-_Cell fate specification is controlled by combinatorial BMP4/Activin (related to Figure 1)_
-
-[Figure_S1_4i_Alignment.bash](./Figure_S1_4i_Alignment.bash)  
-
+[Figure 1 - Analysis and Plotting.ipynb](./Figure_1/Figure_1.ipynb)  
 
 ### Figure 2.
-
 _Modelling cell state transitions reveals need for multiple routes to differentiated fates._
+[Figure 2 - Analysis and Plotting.ipynb](./Figure_2/Figure_2.ipynb)  
 
-
+### Figure S1.
+_Cell fate specification is controlled by combinatorial BMP4/Activin (related to Figure 1)_
+[Figure S1 - Analysis and Plotting.ipynb](./Figure_S1/Figure_S1.ipynb)  
 
 ### Figure S2.
-
 _Markov modelling captures dynamics of BMP4/Activin driven differentiation (related to Figure 2)_
+[Figure S2 - Analysis and Plotting.ipynb](./Figure_S2/Figure_S2.ipynb)  
 
 
 
