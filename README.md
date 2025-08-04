@@ -13,7 +13,7 @@
 
   This repository contains the code and data analysis for the publication:
 
-  > _Combininatorial BMP4 and Activin direct choice between alternate Routes to endoderm during human Gastrulation (TBC)_
+  > _Combininatorial BMP4 and Activin direct choice between alternate Routes to endoderm during human Gastrulation (2025)_
   
   > _<ins>**Oliver Inge**</ins>, Elias Copin, Jake Cornwall-Scoones, Borzo Gharibi, Irene Rodriguez-Hernandez, Pablo Soro-Barrio, Molly Strom, Probir Chakravarty, James Briscoe and Silvia Santos*_
 
