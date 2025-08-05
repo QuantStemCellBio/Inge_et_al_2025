@@ -29,15 +29,22 @@ Resources to generate data are available upon request from Dr. Silvia Santos (si
 
 ## Table of Contents 
 
-### Main Figures:
+[Figure 1: _Combinatorial Activin and BMP4 guide cell fate decisions from hESCs._(And Supplementary Information)](./Figure_1andS1)  
+  
+[Figure 2: _Modelling cell state transitions reveals need for multiple routes to differentiated fates._(And Supplementary Information)_](./Figure_2andS2)  
+  
+[Figure 3: _Transcriptional analysis predicts state transition from mesoderm to endoderm._(And Supplementary Information)](./Figure_3andS3)  
+  
+[Figure 4: _Single cell tracking of endoderms reveals transition through mesoderm state._(And Supplementary Information)_](./Figure_4andS4)  
 
-[Figure 1: _Combinatorial Activin and BMP4 guide cell fate decisions from hESCs._](./Figure_1/Figure_1.ipynb)  
-[Figure 2: _Modelling cell state transitions reveals need for multiple routes to differentiated fates._](./Figure_2/Figure_2.ipynb)  
+[Figure 5: _Endoderm derived from different routes have divergent transcriptional profiles but same differentiation potential._(And Supplementary Information)](./Figure_5andS5)  
+  
+[Figure 6: _Route choice to endoderm is determined by combinatorial BMP4 and Activin._(And Supplementary Information)_](./Figure_6andS6)  
+  
+[Figure 7: _Dual role of BMP4 in mesoderm induction and pluripotency exit controls relative route efficiency._(And Supplementary Information)](./Figure_7andS7)  
 
-### Supplementary Figures:  
+  
 
-[Figure S1: _Cell fate specification is controlled by combinatorial BMP4/Activin (related to Figure 1)_](./Figure_S1/Figure_S1.ipynb)  
-[Figure S2: _Markov modelling captures dynamics of BMP4/Activin driven differentiation (related to Figure 2)_](./Figure_2/Figure_S2.ipynb)  
 
 
 
